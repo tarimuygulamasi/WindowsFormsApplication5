@@ -1,0 +1,11 @@
+C:\Users\Adem\Desktop\TarimUygulamasi\TarimUygulamasi\obj\Debug\TarimUygulamasi.csprojAssemblyReference.cache
+C:\Users\Adem\Desktop\TarimUygulamasi\TarimUygulamasi\obj\Debug\TarimUygulamasi.Properties.Resources.resources
+C:\Users\Adem\Desktop\TarimUygulamasi\TarimUygulamasi\obj\Debug\TarimUygulamasi.csproj.GenerateResource.cache
+C:\Users\Adem\Desktop\TarimUygulamasi\TarimUygulamasi\obj\Debug\TarimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Desktop\TarimUygulamasi\TarimUygulamasi\bin\Debug\TarimUygulamasi.exe.config
+C:\Users\Adem\Desktop\TarimUygulamasi\TarimUygulamasi\bin\Debug\TarimUygulamasi.exe
+C:\Users\Adem\Desktop\TarimUygulamasi\TarimUygulamasi\bin\Debug\TarimUygulamasi.pdb
+C:\Users\Adem\Desktop\TarimUygulamasi\TarimUygulamasi\obj\Debug\TarimUygulamasi.giris.resources
+C:\Users\Adem\Desktop\TarimUygulamasi\TarimUygulamasi\obj\Debug\TarimUygulamasi.exe
+C:\Users\Adem\Desktop\TarimUygulamasi\TarimUygulamasi\obj\Debug\TarimUygulamasi.pdb
+C:\Users\Adem\Desktop\TarimUygulamasi\TarimUygulamasi\obj\Debug\TarimUygulamasi.sifre.resources
